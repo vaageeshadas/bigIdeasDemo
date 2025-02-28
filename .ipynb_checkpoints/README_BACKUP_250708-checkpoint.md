@@ -1,7 +1,0 @@
-# bigIdeasDemo
-
-
-# yahoo!
-
-* version control!
-

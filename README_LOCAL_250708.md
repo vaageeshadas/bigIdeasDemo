@@ -1,3 +1,0 @@
-# bigIdeasDemo
-
-# yahoo!
